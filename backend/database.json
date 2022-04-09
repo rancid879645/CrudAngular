@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Pedro Picapiedra ",
+      "email": "pedrop@email.com",
+      "phone": "(989)-433-3449"
+    },
+    {
+      "id": 2,
+      "name": "Pablo Marmol",
+      "email": "pablom@email.com",
+      "phone": "(317)-303-3850"
+    },
+    {
+      "id": 3,
+      "name": "Vilma Picapiedra",
+      "email": "vilmap@email.com",
+      "phone": "(056)-128-7405"
+    },
+    {
+      "id": 4,
+      "name": "VilmaX PicapiedraX",
+      "email": "vilmap@email.com",
+      "phone": "(056)-128-7405"
+    }
+  ]
+}
